@@ -1,6 +1,6 @@
 {
     "name": "collab/module-recaptcha-page-speed-improvement",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple Magento 2 mixin to improve page speed by loading Google's reCaptcha only after first user interaction.",
     "type": "magento2-module",
     "authors": [
